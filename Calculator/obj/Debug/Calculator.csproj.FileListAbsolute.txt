@@ -1,0 +1,5 @@
+/Users/maxfriman/Projects/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/maxfriman/Projects/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/maxfriman/Projects/Calculator/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache
+/Users/maxfriman/Projects/Calculator/Calculator/obj/Debug/Calculator.exe
+/Users/maxfriman/Projects/Calculator/Calculator/obj/Debug/Calculator.pdb
